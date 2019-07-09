@@ -1,3 +1,6 @@
+body {
+    background-image: url(img1.jpg)
+    }
 .firstpa {
     font-size: 50px;
     text-align: center;
@@ -5,9 +8,6 @@
     color: black;
     background-color: #4470c4;
     border: 5px solid #2d508f;
-    }
-    body {
-    background-image: url(img1.jpg)
     }
     h1 {
     font-size: 70px;
