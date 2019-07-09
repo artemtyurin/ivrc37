@@ -1,0 +1,30 @@
+.firstpa {
+    font-size: 50px;
+    text-align: center;
+    vertical-align: middle;
+    color: black;
+    background-color: #4470c4;
+    border: 5px solid #2d508f;
+    }
+    body {
+    background-image: url(ivrc37/img1.jpg)
+    }
+    h1 {
+    font-size: 70px;
+    text-align: center;
+    }
+    h2 {
+    font-size: 60px;
+    text-align: center;
+    }
+    h4 {
+    font-size: 40px;
+    text-align: left;
+    }
+    ul {
+    font-size: 30px;
+    text-align: left;
+    }
+    .pict {
+    text-align: center;
+    }
