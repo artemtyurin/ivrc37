@@ -1,3 +1,7 @@
+h1,
+.pict {
+    background-image: url(img3.jpg) no repeat;
+}
 body {
     background: url(img1.jpg)
     }
@@ -28,7 +32,4 @@ body {
     .pict {
     text-align: center;
     }
-    h1,
-    .pict {
-        background-image: url(img3.jpg) no repeat;
-    }
+  
