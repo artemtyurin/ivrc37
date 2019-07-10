@@ -1,12 +1,9 @@
-h1 {
-    background-image: url(Nd59cACoq7k.jpg) no repeat;
-}
 body {
-    background: url(img1.jpg)
-    }
-    h1 {
-        font-size: 70px;
-        text-align: center;
+background: url(img1.jpg)
+}
+h1 {
+font-size: 70px;
+text-align: center;
         }
 .firstpa {
     font-size: 50px;
