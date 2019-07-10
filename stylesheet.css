@@ -1,3 +1,8 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+    background-image: url(img3.jpg);
+    }
 body {
     background: url(img1.jpg)
     }
@@ -8,11 +13,6 @@ body {
     color: black;
     background-color: #4470c4;
     border: 5px solid #2d508f;
-    }
-    h1 {
-    font-size: 70px;
-    text-align: center;
-    background-image: url(img3.jpg);
     }
     h2 {
     font-size: 60px;
