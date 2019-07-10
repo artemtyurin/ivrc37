@@ -28,3 +28,7 @@ body {
     .pict {
     text-align: center;
     }
+    h1,
+    .pict {
+        background-image: url(Grungy\ Newspaper\ Texture_Background.jpg) no repeat;
+    }
