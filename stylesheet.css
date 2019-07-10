@@ -1,3 +1,7 @@
+.pict {
+    background-color: lightgreen;
+text-align: center;
+}
 body {
 background: url(img1.jpg)
 }
@@ -25,8 +29,5 @@ text-align: center;
     font-size: 30px;
     text-align: left;
     }
-    .pict {
-        background-color: lightgreen;
-    text-align: center;
-    }
+
   
