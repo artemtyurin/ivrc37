@@ -35,7 +35,8 @@ color: white
         }
 .ghur {
 background-color: dimgray;
-border: 20px solid #ececec
+border: 10px solid #ececec;
+padding: 5px;
 }
 
 
