@@ -1,16 +1,17 @@
 h1 {
-font-size: 70px;
+font-size: 80px;
 text-align: center;
 font-family: cursive;
 color: rgb(255, 208, 0);
+padding: 30px;
         }
 .firstpa {
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
     vertical-align: middle;
     color: black;
-    padding: 30px;
-   border: 10px solid rgb(0, 0, 0);
+    padding: 40px;
+   /*border: 10px solid rgb(0, 0, 0);*/
    background-color: rgb(255, 208, 0);
     }
     .pict {
@@ -18,9 +19,9 @@ color: rgb(255, 208, 0);
         }
 .ghur {
         color: black;
-font-size: 45px;
-border: 10px solid rgb(0, 0, 0);
-padding: 5px;
+font-size: 50px;
+/*border: 10px solid rgb(0, 0, 0);*/
+padding: 30px;
 text-align: center;
 background-color: rgb(255, 208, 0);
 }
