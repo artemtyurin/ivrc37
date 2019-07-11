@@ -2,24 +2,26 @@ h1 {
 font-size: 70px;
 text-align: center;
 font-family: cursive;
-color: black;
+color: rgb(255, 208, 0);
         }
 .firstpa {
     font-size: 50px;
     text-align: center;
     vertical-align: middle;
     color: black;
-    padding: 5px;
-    border: 10px solid black;
+    padding: 30px;
+    border: 10px solid rgb(0, 0, 0);
+    background-color: rgb(255, 208, 0);
     }
     .pict {
         text-align: center;
         }
 .ghur {
 font-size: 45px;
-border: 10px solid black;
+border: 10px solid rgb(0, 0, 0);
 padding: 5px;
-text-align: center
+text-align: center;
+background-color: rgb(255, 208, 0);
 }
 .shok {
         text-align: center;
