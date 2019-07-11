@@ -7,3 +7,9 @@ h1 {
     body {
         background-color: rgb(41, 131, 49)
     }
+    .hrw {
+        text-align: center;
+        font-size: 30px;
+        background-color: rgb(255, 208, 0);
+        padding: 10px;
+    }
