@@ -2,7 +2,8 @@ h1 {
 font-size: 70px;
 text-align: center;
 font-family: cursive;
-color: rgb(255, 208, 0);
+color: rgb(0, 0, 0);
+background-color:  rgb(255, 208, 0);
         }
 .firstpa {
     font-size: 50px;
@@ -10,7 +11,7 @@ color: rgb(255, 208, 0);
     vertical-align: middle;
     color: black;
     padding: 30px;
-    border: 10px solid rgb(0, 0, 0);
+   /* border: 10px solid rgb(0, 0, 0);*/
     background-color: rgb(255, 208, 0);
     }
     .pict {
@@ -18,7 +19,7 @@ color: rgb(255, 208, 0);
         }
 .ghur {
 font-size: 45px;
-border: 10px solid rgb(0, 0, 0);
+/*border: 10px solid rgb(0, 0, 0);*/
 padding: 5px;
 text-align: center;
 background-color: rgb(255, 208, 0);
@@ -27,6 +28,8 @@ background-color: rgb(255, 208, 0);
         text-align: center;
       font-size: 20px;
 }
-
+body {
+        background-color: rgb(41, 131, 49)
+}
 
   
